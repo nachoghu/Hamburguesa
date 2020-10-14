@@ -1,0 +1,8 @@
+cortar|ajo|cebolla|perejil|NULL
+cortarLechugaTomate|NULL
+mezclar|ajo|cebolla|perejil|carne|NULL
+salar|NULL
+armarMedallones|NULL
+cocinarPan|NULL
+cocinarHamburguesa|NULL
+armarHamburguesa|NULL
